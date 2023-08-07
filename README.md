@@ -26,7 +26,7 @@ I offer a range of services to empower your IoT journey:
 
 My technical skills cover a broad spectrum of tools and technologies:
 
-- Languages: Python, JavaScript, BASH
+- Languages: Python(Django, FastAPi, Flask ), JavaScript, BASH
 - Serverlss Backend development using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, AWS IoT Core, Amazon Kinesis, Amazon EventBridge, AWS Step Functions, Amazon Cognito, Amazon CloudWatch, AWS IoT Analytics, AWS AppSync, Amazon SQS, Amazon SNS, AWS IoT Greengrass, Amazon Aurora Serverless
 - Platforms: Self-Hosted, AWS IoT, Azure IoT
 - Network and Server Management with Load Balancing ⚙️
