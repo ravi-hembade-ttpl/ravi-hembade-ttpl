@@ -2,7 +2,7 @@
 
 🔌 Crafting IoT Innovations for 7+ years | 24+ Projects Completed 🌐
 
-🛠️ Specializing in Hardware Prototyping, IoT Web Application Backend Development, and Architecture Design 🏗️
+🛠️ Specializing in Hardware Prototyping, IoT Web Application Development, and Architecture Design 🏗️
 
 🤝 Passionate about helping IoT companies thrive and expanding portfolios 📈
 
