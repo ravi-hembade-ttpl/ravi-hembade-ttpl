@@ -7,7 +7,6 @@
 🤝 Passionate about helping IoT companies thrive and expanding portfolios 📈
 
 🔧 Services:
-
 IoT and IIoT Product Consultancy 📊
 In-depth Research Reports for Product Ideas 📋
 Architecture Design and Tech Stack Selection 🏗️
@@ -19,8 +18,8 @@ Consumer-Facing App Creation 📱🎨
 Server Deployment and Testing 🚀🧪
 Stress Testing for Robustness 💪
 Mass Manufacturing Strategies 🏭
-🌐 Tech Expertise:
 
+🌐 Tech Expertise:
 Languages: Python, JavaScript, BASH
 Platforms: Self-Hosted, AWS IoT, Azure IoT
 Network and Server Management w/ Load Balancing ⚙️
@@ -31,4 +30,6 @@ Hardware Protocols: I2C, CAN, UART, SPI, OneWire, PJON
 Software Protocols: MQTT, REST, LWMQTT, MQTT-SN, PJON
 OS: Linux (Ubuntu, Manjaro, Raspberry Pi OS), BSD, FreeRTOS 🐧
 Deployment and Versioning: Caprover, Portainer, Kubernetes, Docker, GitLab, Git, GitHub 🚢🔄
+
+
 Let's collaborate to shape the future of IoT together! 🌟🌐🚀
