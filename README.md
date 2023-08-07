@@ -34,7 +34,7 @@ My technical skills cover a broad spectrum of tools and technologies:
 - Single Board Computers (SBCs): Raspberry Pi, Intel Joule, OrangePi, Nvidia Jetson
 - Microcontrollers: Arduino family, ESP8266, ESP32, ATMega, ATtiny
 - Hardware Protocols: I2C, CAN, UART, SPI, OneWire, PJON
-- Software Protocols: MQTT, REST, LWMQTT, MQTT-SN, PJON
+- Software Protocols: MQTT, REST, LWMQTT, MQTT-SN, PJON, Lora, SNMP, Modbus , CoAP, Bacnet, KNX
 - Operating Systems: Linux (Ubuntu, Manjaro, Raspberry Pi OS), BSD, FreeRTOS 🐧
 - Deployment and Versioning Tools: Caprover, Portainer, Kubernetes, Docker, GitLab, Git, GitHub 🚢🔄
 
